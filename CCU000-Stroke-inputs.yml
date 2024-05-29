@@ -1,0 +1,105 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu000-stroke-haemorrhage---secondary.py
+inputModule3:
+  class: File
+  path: python/nontraumatic-ccu000-stroke---secondary.py
+inputModule4:
+  class: File
+  path: python/hemorrhagic-ccu000-stroke---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu000-stroke-brain---secondary.py
+inputModule6:
+  class: File
+  path: python/subcortical-ccu000-stroke---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu000-stroke-ganglia---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu000-stroke-unspecified---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu000-stroke-capsule---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu000-stroke-infarct---secondary.py
+inputModule11:
+  class: File
+  path: python/intracerebral-ccu000-stroke---secondary.py
+inputModule12:
+  class: File
+  path: python/cerebellar-ccu000-stroke---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu000-stroke-foville---secondary.py
+inputModule14:
+  class: File
+  path: python/ccu000-stroke-millardgubler---secondary.py
+inputModule15:
+  class: File
+  path: python/ccu000-stroke-thrombus---secondary.py
+inputModule16:
+  class: File
+  path: python/right-ccu000-stroke---secondary.py
+inputModule17:
+  class: File
+  path: python/ischemic-ccu000-stroke---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu000-stroke-webergubler---secondary.py
+inputModule19:
+  class: File
+  path: python/ccu000-stroke---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu000-stroke-lacunar---secondary.py
+inputModule21:
+  class: File
+  path: python/bilateral-ccu000-stroke---secondary.py
+inputModule22:
+  class: File
+  path: python/vertebrobasilar-ccu000-stroke---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu000-stroke-claude's---secondary.py
+inputModule24:
+  class: File
+  path: python/carotid-ccu000-stroke---secondary.py
+inputModule25:
+  class: File
+  path: python/ccu000-stroke-embolism---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu000-stroke-pathology---secondary.py
+inputModule27:
+  class: File
+  path: python/ccu000-stroke-sided---secondary.py
+inputModule28:
+  class: File
+  path: python/cerebrovascular-ccu000-stroke---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu000-stroke-resulting---secondary.py
+inputModule30:
+  class: File
+  path: python/transient-ccu000-stroke---secondary.py
+inputModule31:
+  class: File
+  path: python/ccu000-stroke-tia---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu000-stroke-artery---secondary.py
+inputModule33:
+  class: File
+  path: python/ischaemic-ccu000-stroke---secondary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
